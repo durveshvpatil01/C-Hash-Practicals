@@ -1,0 +1,12 @@
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\bin\Debug\netcoreapp3.1\defining and using a constant.exe
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\bin\Debug\netcoreapp3.1\defining and using a constant.deps.json
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\bin\Debug\netcoreapp3.1\defining and using a constant.runtimeconfig.json
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\bin\Debug\netcoreapp3.1\defining and using a constant.runtimeconfig.dev.json
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\bin\Debug\netcoreapp3.1\defining and using a constant.dll
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\bin\Debug\netcoreapp3.1\defining and using a constant.pdb
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\obj\Debug\netcoreapp3.1\defining and using a constant.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\obj\Debug\netcoreapp3.1\defining and using a constant.AssemblyInfo.cs
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\obj\Debug\netcoreapp3.1\defining and using a constant.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\obj\Debug\netcoreapp3.1\defining and using a constant.dll
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\obj\Debug\netcoreapp3.1\defining and using a constant.pdb
+C:\Users\durve\source\repos\defining and using a constant\defining and using a constant\obj\Debug\netcoreapp3.1\defining and using a constant.genruntimeconfig.cache

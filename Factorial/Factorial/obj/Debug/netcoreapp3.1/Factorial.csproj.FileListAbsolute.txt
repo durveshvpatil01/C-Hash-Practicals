@@ -1,0 +1,12 @@
+C:\Users\durve\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\durve\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\durve\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\durve\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\durve\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\durve\source\repos\Factorial\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\durve\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\durve\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\durve\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\durve\source\repos\Factorial\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache

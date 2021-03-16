@@ -1,0 +1,12 @@
+C:\Users\durve\source\repos\access specifier\obj\Debug\netcoreapp3.1\access specifier.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\access specifier\obj\Debug\netcoreapp3.1\access specifier.AssemblyInfo.cs
+C:\Users\durve\source\repos\access specifier\obj\Debug\netcoreapp3.1\access specifier.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\access specifier\bin\Debug\netcoreapp3.1\access specifier.exe
+C:\Users\durve\source\repos\access specifier\bin\Debug\netcoreapp3.1\access specifier.deps.json
+C:\Users\durve\source\repos\access specifier\bin\Debug\netcoreapp3.1\access specifier.runtimeconfig.json
+C:\Users\durve\source\repos\access specifier\bin\Debug\netcoreapp3.1\access specifier.runtimeconfig.dev.json
+C:\Users\durve\source\repos\access specifier\bin\Debug\netcoreapp3.1\access specifier.dll
+C:\Users\durve\source\repos\access specifier\bin\Debug\netcoreapp3.1\access specifier.pdb
+C:\Users\durve\source\repos\access specifier\obj\Debug\netcoreapp3.1\access specifier.dll
+C:\Users\durve\source\repos\access specifier\obj\Debug\netcoreapp3.1\access specifier.pdb
+C:\Users\durve\source\repos\access specifier\obj\Debug\netcoreapp3.1\access specifier.genruntimeconfig.cache

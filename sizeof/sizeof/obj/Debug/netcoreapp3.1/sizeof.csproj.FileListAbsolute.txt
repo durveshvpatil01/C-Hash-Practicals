@@ -1,0 +1,13 @@
+C:\Users\durve\source\repos\sizeof\sizeof\obj\Debug\netcoreapp3.1\sizeof.csprojAssemblyReference.cache
+C:\Users\durve\source\repos\sizeof\sizeof\obj\Debug\netcoreapp3.1\sizeof.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\sizeof\sizeof\obj\Debug\netcoreapp3.1\sizeof.AssemblyInfo.cs
+C:\Users\durve\source\repos\sizeof\sizeof\obj\Debug\netcoreapp3.1\sizeof.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\sizeof\sizeof\bin\Debug\netcoreapp3.1\sizeof.exe
+C:\Users\durve\source\repos\sizeof\sizeof\bin\Debug\netcoreapp3.1\sizeof.deps.json
+C:\Users\durve\source\repos\sizeof\sizeof\bin\Debug\netcoreapp3.1\sizeof.runtimeconfig.json
+C:\Users\durve\source\repos\sizeof\sizeof\bin\Debug\netcoreapp3.1\sizeof.runtimeconfig.dev.json
+C:\Users\durve\source\repos\sizeof\sizeof\bin\Debug\netcoreapp3.1\sizeof.dll
+C:\Users\durve\source\repos\sizeof\sizeof\bin\Debug\netcoreapp3.1\sizeof.pdb
+C:\Users\durve\source\repos\sizeof\sizeof\obj\Debug\netcoreapp3.1\sizeof.dll
+C:\Users\durve\source\repos\sizeof\sizeof\obj\Debug\netcoreapp3.1\sizeof.pdb
+C:\Users\durve\source\repos\sizeof\sizeof\obj\Debug\netcoreapp3.1\sizeof.genruntimeconfig.cache

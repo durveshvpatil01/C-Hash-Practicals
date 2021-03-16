@@ -1,0 +1,13 @@
+C:\Users\durve\source\repos\dowhile1\dowhile1\obj\Debug\netcoreapp3.1\dowhile1.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\dowhile1\dowhile1\obj\Debug\netcoreapp3.1\dowhile1.AssemblyInfo.cs
+C:\Users\durve\source\repos\dowhile1\dowhile1\obj\Debug\netcoreapp3.1\dowhile1.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\dowhile1\dowhile1\bin\Debug\netcoreapp3.1\dowhile1.exe
+C:\Users\durve\source\repos\dowhile1\dowhile1\bin\Debug\netcoreapp3.1\dowhile1.deps.json
+C:\Users\durve\source\repos\dowhile1\dowhile1\bin\Debug\netcoreapp3.1\dowhile1.runtimeconfig.json
+C:\Users\durve\source\repos\dowhile1\dowhile1\bin\Debug\netcoreapp3.1\dowhile1.runtimeconfig.dev.json
+C:\Users\durve\source\repos\dowhile1\dowhile1\bin\Debug\netcoreapp3.1\dowhile1.dll
+C:\Users\durve\source\repos\dowhile1\dowhile1\bin\Debug\netcoreapp3.1\dowhile1.pdb
+C:\Users\durve\source\repos\dowhile1\dowhile1\obj\Debug\netcoreapp3.1\dowhile1.csprojAssemblyReference.cache
+C:\Users\durve\source\repos\dowhile1\dowhile1\obj\Debug\netcoreapp3.1\dowhile1.dll
+C:\Users\durve\source\repos\dowhile1\dowhile1\obj\Debug\netcoreapp3.1\dowhile1.pdb
+C:\Users\durve\source\repos\dowhile1\dowhile1\obj\Debug\netcoreapp3.1\dowhile1.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\durve\source\repos\use constructor\bin\Debug\netcoreapp3.1\use constructor.exe
+C:\Users\durve\source\repos\use constructor\bin\Debug\netcoreapp3.1\use constructor.deps.json
+C:\Users\durve\source\repos\use constructor\bin\Debug\netcoreapp3.1\use constructor.runtimeconfig.json
+C:\Users\durve\source\repos\use constructor\bin\Debug\netcoreapp3.1\use constructor.runtimeconfig.dev.json
+C:\Users\durve\source\repos\use constructor\bin\Debug\netcoreapp3.1\use constructor.dll
+C:\Users\durve\source\repos\use constructor\bin\Debug\netcoreapp3.1\use constructor.pdb
+C:\Users\durve\source\repos\use constructor\obj\Debug\netcoreapp3.1\use constructor.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\use constructor\obj\Debug\netcoreapp3.1\use constructor.AssemblyInfo.cs
+C:\Users\durve\source\repos\use constructor\obj\Debug\netcoreapp3.1\use constructor.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\use constructor\obj\Debug\netcoreapp3.1\use constructor.dll
+C:\Users\durve\source\repos\use constructor\obj\Debug\netcoreapp3.1\use constructor.pdb
+C:\Users\durve\source\repos\use constructor\obj\Debug\netcoreapp3.1\use constructor.genruntimeconfig.cache

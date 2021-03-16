@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "defining and using a constant/1.0.0": {
+        "runtime": {
+          "defining and using a constant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "defining and using a constant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

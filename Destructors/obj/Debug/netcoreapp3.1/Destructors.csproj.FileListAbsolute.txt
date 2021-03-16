@@ -1,0 +1,12 @@
+C:\Users\durve\source\repos\Destructors\bin\Debug\netcoreapp3.1\Destructors.exe
+C:\Users\durve\source\repos\Destructors\bin\Debug\netcoreapp3.1\Destructors.deps.json
+C:\Users\durve\source\repos\Destructors\bin\Debug\netcoreapp3.1\Destructors.runtimeconfig.json
+C:\Users\durve\source\repos\Destructors\bin\Debug\netcoreapp3.1\Destructors.runtimeconfig.dev.json
+C:\Users\durve\source\repos\Destructors\bin\Debug\netcoreapp3.1\Destructors.dll
+C:\Users\durve\source\repos\Destructors\bin\Debug\netcoreapp3.1\Destructors.pdb
+C:\Users\durve\source\repos\Destructors\obj\Debug\netcoreapp3.1\Destructors.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\Destructors\obj\Debug\netcoreapp3.1\Destructors.AssemblyInfo.cs
+C:\Users\durve\source\repos\Destructors\obj\Debug\netcoreapp3.1\Destructors.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\Destructors\obj\Debug\netcoreapp3.1\Destructors.dll
+C:\Users\durve\source\repos\Destructors\obj\Debug\netcoreapp3.1\Destructors.pdb
+C:\Users\durve\source\repos\Destructors\obj\Debug\netcoreapp3.1\Destructors.genruntimeconfig.cache

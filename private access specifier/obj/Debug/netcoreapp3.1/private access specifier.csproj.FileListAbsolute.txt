@@ -1,0 +1,12 @@
+C:\Users\durve\source\repos\private access specifier\obj\Debug\netcoreapp3.1\private access specifier.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\private access specifier\obj\Debug\netcoreapp3.1\private access specifier.AssemblyInfo.cs
+C:\Users\durve\source\repos\private access specifier\obj\Debug\netcoreapp3.1\private access specifier.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\private access specifier\bin\Debug\netcoreapp3.1\private access specifier.exe
+C:\Users\durve\source\repos\private access specifier\bin\Debug\netcoreapp3.1\private access specifier.deps.json
+C:\Users\durve\source\repos\private access specifier\bin\Debug\netcoreapp3.1\private access specifier.runtimeconfig.json
+C:\Users\durve\source\repos\private access specifier\bin\Debug\netcoreapp3.1\private access specifier.runtimeconfig.dev.json
+C:\Users\durve\source\repos\private access specifier\bin\Debug\netcoreapp3.1\private access specifier.dll
+C:\Users\durve\source\repos\private access specifier\bin\Debug\netcoreapp3.1\private access specifier.pdb
+C:\Users\durve\source\repos\private access specifier\obj\Debug\netcoreapp3.1\private access specifier.dll
+C:\Users\durve\source\repos\private access specifier\obj\Debug\netcoreapp3.1\private access specifier.pdb
+C:\Users\durve\source\repos\private access specifier\obj\Debug\netcoreapp3.1\private access specifier.genruntimeconfig.cache

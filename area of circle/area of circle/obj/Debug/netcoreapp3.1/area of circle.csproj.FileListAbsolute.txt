@@ -1,0 +1,13 @@
+C:\Users\durve\source\repos\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.AssemblyInfo.cs
+C:\Users\durve\source\repos\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.exe
+C:\Users\durve\source\repos\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.deps.json
+C:\Users\durve\source\repos\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.runtimeconfig.json
+C:\Users\durve\source\repos\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.runtimeconfig.dev.json
+C:\Users\durve\source\repos\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.dll
+C:\Users\durve\source\repos\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.pdb
+C:\Users\durve\source\repos\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.dll
+C:\Users\durve\source\repos\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.pdb
+C:\Users\durve\source\repos\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.genruntimeconfig.cache
+C:\Users\durve\source\repos\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.csprojAssemblyReference.cache

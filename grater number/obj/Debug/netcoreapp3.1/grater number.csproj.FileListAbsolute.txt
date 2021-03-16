@@ -1,0 +1,12 @@
+C:\Users\durve\source\repos\grater number\bin\Debug\netcoreapp3.1\grater number.exe
+C:\Users\durve\source\repos\grater number\bin\Debug\netcoreapp3.1\grater number.deps.json
+C:\Users\durve\source\repos\grater number\bin\Debug\netcoreapp3.1\grater number.runtimeconfig.json
+C:\Users\durve\source\repos\grater number\bin\Debug\netcoreapp3.1\grater number.runtimeconfig.dev.json
+C:\Users\durve\source\repos\grater number\bin\Debug\netcoreapp3.1\grater number.dll
+C:\Users\durve\source\repos\grater number\bin\Debug\netcoreapp3.1\grater number.pdb
+C:\Users\durve\source\repos\grater number\obj\Debug\netcoreapp3.1\grater number.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\grater number\obj\Debug\netcoreapp3.1\grater number.AssemblyInfo.cs
+C:\Users\durve\source\repos\grater number\obj\Debug\netcoreapp3.1\grater number.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\grater number\obj\Debug\netcoreapp3.1\grater number.dll
+C:\Users\durve\source\repos\grater number\obj\Debug\netcoreapp3.1\grater number.pdb
+C:\Users\durve\source\repos\grater number\obj\Debug\netcoreapp3.1\grater number.genruntimeconfig.cache

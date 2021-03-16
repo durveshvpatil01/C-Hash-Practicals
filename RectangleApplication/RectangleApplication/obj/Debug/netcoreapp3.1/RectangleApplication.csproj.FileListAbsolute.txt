@@ -1,0 +1,13 @@
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\obj\Debug\netcoreapp3.1\RectangleApplication.csprojAssemblyReference.cache
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\obj\Debug\netcoreapp3.1\RectangleApplication.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\obj\Debug\netcoreapp3.1\RectangleApplication.AssemblyInfo.cs
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\obj\Debug\netcoreapp3.1\RectangleApplication.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\bin\Debug\netcoreapp3.1\RectangleApplication.exe
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\bin\Debug\netcoreapp3.1\RectangleApplication.deps.json
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\bin\Debug\netcoreapp3.1\RectangleApplication.runtimeconfig.json
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\bin\Debug\netcoreapp3.1\RectangleApplication.runtimeconfig.dev.json
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\bin\Debug\netcoreapp3.1\RectangleApplication.dll
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\bin\Debug\netcoreapp3.1\RectangleApplication.pdb
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\obj\Debug\netcoreapp3.1\RectangleApplication.dll
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\obj\Debug\netcoreapp3.1\RectangleApplication.pdb
+C:\Users\durve\source\repos\RectangleApplication\RectangleApplication\obj\Debug\netcoreapp3.1\RectangleApplication.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\bin\Debug\netcoreapp3.1\convert various value types to string type.exe
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\bin\Debug\netcoreapp3.1\convert various value types to string type.deps.json
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\bin\Debug\netcoreapp3.1\convert various value types to string type.runtimeconfig.json
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\bin\Debug\netcoreapp3.1\convert various value types to string type.runtimeconfig.dev.json
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\bin\Debug\netcoreapp3.1\convert various value types to string type.dll
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\bin\Debug\netcoreapp3.1\convert various value types to string type.pdb
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\obj\Debug\netcoreapp3.1\convert various value types to string type.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\obj\Debug\netcoreapp3.1\convert various value types to string type.AssemblyInfo.cs
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\obj\Debug\netcoreapp3.1\convert various value types to string type.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\obj\Debug\netcoreapp3.1\convert various value types to string type.dll
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\obj\Debug\netcoreapp3.1\convert various value types to string type.pdb
+C:\Users\durve\source\repos\convert various value types to string type\convert various value types to string type\obj\Debug\netcoreapp3.1\convert various value types to string type.genruntimeconfig.cache

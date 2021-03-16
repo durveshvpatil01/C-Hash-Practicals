@@ -1,0 +1,13 @@
+C:\Users\durve\source\repos\max number\bin\Debug\netcoreapp3.1\max number.exe
+C:\Users\durve\source\repos\max number\bin\Debug\netcoreapp3.1\max number.deps.json
+C:\Users\durve\source\repos\max number\bin\Debug\netcoreapp3.1\max number.runtimeconfig.json
+C:\Users\durve\source\repos\max number\bin\Debug\netcoreapp3.1\max number.runtimeconfig.dev.json
+C:\Users\durve\source\repos\max number\bin\Debug\netcoreapp3.1\max number.dll
+C:\Users\durve\source\repos\max number\bin\Debug\netcoreapp3.1\max number.pdb
+C:\Users\durve\source\repos\max number\obj\Debug\netcoreapp3.1\max number.csprojAssemblyReference.cache
+C:\Users\durve\source\repos\max number\obj\Debug\netcoreapp3.1\max number.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\max number\obj\Debug\netcoreapp3.1\max number.AssemblyInfo.cs
+C:\Users\durve\source\repos\max number\obj\Debug\netcoreapp3.1\max number.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\max number\obj\Debug\netcoreapp3.1\max number.dll
+C:\Users\durve\source\repos\max number\obj\Debug\netcoreapp3.1\max number.pdb
+C:\Users\durve\source\repos\max number\obj\Debug\netcoreapp3.1\max number.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\durve\source\repos\define a class\bin\Debug\netcoreapp3.1\define a class.exe
+C:\Users\durve\source\repos\define a class\bin\Debug\netcoreapp3.1\define a class.deps.json
+C:\Users\durve\source\repos\define a class\bin\Debug\netcoreapp3.1\define a class.runtimeconfig.json
+C:\Users\durve\source\repos\define a class\bin\Debug\netcoreapp3.1\define a class.runtimeconfig.dev.json
+C:\Users\durve\source\repos\define a class\bin\Debug\netcoreapp3.1\define a class.dll
+C:\Users\durve\source\repos\define a class\bin\Debug\netcoreapp3.1\define a class.pdb
+C:\Users\durve\source\repos\define a class\obj\Debug\netcoreapp3.1\define a class.AssemblyInfoInputs.cache
+C:\Users\durve\source\repos\define a class\obj\Debug\netcoreapp3.1\define a class.AssemblyInfo.cs
+C:\Users\durve\source\repos\define a class\obj\Debug\netcoreapp3.1\define a class.csproj.CoreCompileInputs.cache
+C:\Users\durve\source\repos\define a class\obj\Debug\netcoreapp3.1\define a class.dll
+C:\Users\durve\source\repos\define a class\obj\Debug\netcoreapp3.1\define a class.pdb
+C:\Users\durve\source\repos\define a class\obj\Debug\netcoreapp3.1\define a class.genruntimeconfig.cache
